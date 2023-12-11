@@ -11,3 +11,4 @@ https://adventofcode.com/2023
 - [Day 7: Camel Cards](day-7/day-7.ipynb)
 - [Day 8: Haunted Wasteland](day-8/day-8.ipynb)
 - [Day 9: Mirage Maintenance](day-9/day-9.ipynb)
+- [Day 10: Pipe Maze](day-10/day-10.ipynb)
