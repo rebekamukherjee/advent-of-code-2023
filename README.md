@@ -13,3 +13,4 @@ https://adventofcode.com/2023
 - [Day 9: Mirage Maintenance](day-9/day-9.ipynb)
 - [Day 10: Pipe Maze](day-10/day-10.ipynb)
 - [Day 11: Cosmic Expansion](day-11/day-11.ipynb)
+- [Day 12: Hot Springs](day-12/day-12.ipynb)
