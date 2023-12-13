@@ -14,3 +14,4 @@ https://adventofcode.com/2023
 - [Day 10: Pipe Maze](day-10/day-10.ipynb)
 - [Day 11: Cosmic Expansion](day-11/day-11.ipynb)
 - [Day 12: Hot Springs](day-12/day-12.ipynb)
+- [Day 13: Point of Incidence](day-13/day-13.ipynb)
