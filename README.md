@@ -19,3 +19,4 @@ https://adventofcode.com/2023
 - [Day 15: Lens Library](day-15/day-15.ipynb)
 - [Day 16: The Floor Will Be Lava](day-16/day-16.ipynb)
 - [Day 17: Clumsy Crucible](day-17/day-17.ipynb)
+- [Day 18: Lavaduct Lagoon](day-18/day-18.ipynb)
