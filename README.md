@@ -20,4 +20,5 @@ https://adventofcode.com/2023
 - [Day 16: The Floor Will Be Lava](day-16/day-16.ipynb)
 - [Day 17: Clumsy Crucible](day-17/day-17.ipynb)
 - [Day 18: Lavaduct Lagoon](day-18/day-18.ipynb)
+- [Day 19: Aplenty](day-19/day-19.ipynb)
 - [Day 20: Pulse Propagation](day-20/day-20.ipynb)
