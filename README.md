@@ -22,4 +22,4 @@ https://adventofcode.com/2023
 - [Day 18: Lavaduct Lagoon](day-18/day-18.ipynb)
 - [Day 19: Aplenty](day-19/day-19.ipynb)
 - [Day 20: Pulse Propagation](day-20/day-20.ipynb)
-- [Day 21: Step Counter](day-20/day-20.ipynb)
+- [Day 21: Step Counter](day-21/day-21.ipynb)
