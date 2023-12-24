@@ -25,3 +25,4 @@ https://adventofcode.com/2023
 - [Day 21: Step Counter](day-21/day-21.ipynb)
 - [Day 22: Sand Slabs](day-22/day-22.ipynb)
 - [Day 23: A Long Walk](day-23/day-23.ipynb)
+- [Day 24: Never Tell Me The Odds](day-24/day-24.ipynb)
